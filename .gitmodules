@@ -1,0 +1,3 @@
+[submodule "ProjectDocuments"]
+	path = ProjectDocuments
+	url = git@github.com:angium/ProjectDocuments.git
